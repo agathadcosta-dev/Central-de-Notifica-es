@@ -1,0 +1,27 @@
+1. O que é um Toast e qual sua finalidade?
+
+É um componente do Bootstrap que apresenta pequenas notificações temporárias na tela.
+
+2. Qual a principal diferença entre Toast e Modal?
+
+O Toast apresenta mensagens temporárias sem bloquear a página. O Modal abre uma janela que exige interação do usuário.
+
+3. O Toast aparece automaticamente ou precisa ser ativado?
+
+Precisa ser ativado por JavaScript.
+
+4. Qual instrução JavaScript permite criar uma instância de Toast?
+
+new bootstrap.Toast(elemento)
+
+5. Para que serve o método .show()?
+
+Para exibir a notificação na tela.
+
+6. O que significa a opção autohide?
+
+Define se o Toast desaparecerá automaticamente.
+
+7. Qual a finalidade de delay?
+
+Define o tempo que a notificação ficará visível antes de desaparecer.
